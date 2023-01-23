@@ -1,0 +1,272 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+~\hfill \textbf {Page}\par 
+\contentsline {chapter}{Preface}{{\fontencoding {T1}\selectfont vii}}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Problem solving by uninformed and informed search}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Intelligent Agent}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Performance measure based on the rationality assumption}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Classification of Agent}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Properties of environments}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Example problems}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Toy problems}{4}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}Missionaries and cannibals}{4}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.2}8-puzzle}{4}{subsubsection.1.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.3.1.3}8-queens problem}{6}{subsubsection.1.3.1.3}%
+\contentsline {subsection}{\numberline {1.3.2}Real-world problems}{7}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Solving problems with agents}{7}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Formulation of a problem}{8}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Well-defined problems and solutions}{8}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Search algorithm}{9}{subsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.3.1}Search Algorithm structure and the State Space}{9}{subsubsection.1.4.3.1}%
+\contentsline {paragraph}{Difference between TREE-SEARCH and GRAPH-SEARCH}{11}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {1.4.3.2}Infrastructure for search algorithms Node - Function and Queue}{11}{subsubsection.1.4.3.2}%
+\contentsline {subsubsection}{\numberline {1.4.3.3}Problem-Solving performance}{12}{subsubsection.1.4.3.3}%
+\contentsline {section}{\numberline {1.5}Search algorithms}{13}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Uninformed Search Algorithms}{13}{subsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.1.1}Breadth-first search}{13}{subsubsection.1.5.1.1}%
+\contentsline {paragraph}{General conclusion for uninformed search:}{14}{paragraph*.11}%
+\contentsline {subsubsection}{\numberline {1.5.1.2}Uniform-cost search}{14}{subsubsection.1.5.1.2}%
+\contentsline {subsubsection}{\numberline {1.5.1.3}Depth-first search}{14}{subsubsection.1.5.1.3}%
+\contentsline {subsubsection}{\numberline {1.5.1.4}Depth-limited Search}{15}{subsubsection.1.5.1.4}%
+\contentsline {subsubsection}{\numberline {1.5.1.5}Iterative Deepening search}{15}{subsubsection.1.5.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1.6}Bidirectional Search}{15}{subsubsection.1.5.1.6}%
+\contentsline {subsubsection}{\numberline {1.5.1.7}Comparison}{15}{subsubsection.1.5.1.7}%
+\contentsline {subsection}{\numberline {1.5.2}Informed search algorithm}{15}{subsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.2.1}Greedy best-first search}{16}{subsubsection.1.5.2.1}%
+\contentsline {subsubsection}{\numberline {1.5.2.2}A\text {*} search: Minimizing the total estimated solution cost}{16}{subsubsection.1.5.2.2}%
+\contentsline {paragraph}{Conditions for optimality: Admissibility and consistency}{17}{paragraph*.13}%
+\contentsline {paragraph}{Optimality of A*}{17}{paragraph*.14}%
+\contentsline {paragraph}{Inventing Heuristic function}{18}{paragraph*.15}%
+\contentsline {paragraph}{The effect of heuristic accuracy on performance}{18}{paragraph*.16}%
+\contentsline {paragraph}{Learning heuristics from experience}{18}{paragraph*.17}%
+\contentsline {section}{\numberline {1.6}Local Search}{18}{section.1.6}%
+\contentsline {paragraph}{Local search:}{18}{paragraph*.18}%
+\contentsline {subsection}{\numberline {1.6.1}Strategies for local search}{19}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Hill-climbing search or Greedy local search}{20}{subsection.1.6.2}%
+\contentsline {paragraph}{Random-restart hill climbing}{20}{paragraph*.21}%
+\contentsline {subsection}{\numberline {1.6.3}Simulated Annealing}{21}{subsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.3.1}Solving again Travelling Salesman DA COMPLETARE MATIAS}{21}{subsubsection.1.6.3.1}%
+\contentsline {subsection}{\numberline {1.6.4}Local Beam Search}{22}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Genetic algorithm}{22}{subsection.1.6.5}%
+\contentsline {subsubsection}{\numberline {1.6.5.1}GA application (DA FARE)}{24}{subsubsection.1.6.5.1}%
+\contentsline {chapter}{\numberline {2}Monte Carlo techniques}{25}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mothecarlo Technique DA COMPLETARE MATIAS}{25}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Random Number}{25}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Ran0: the minimal standard}{25}{subsubsection.2.1.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Deviates from other distributions (from pg 361 num rec)}{25}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Exponential Deviates}{26}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Transformation Method}{26}{subsubsection.2.1.3.1}%
+\contentsline {subsection}{\numberline {2.1.4}Rejection Method}{27}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Special Technique for Gaussian Distribution-Prof.}{28}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Metropolis Algorithm - Proof}{29}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Simulated annealing}{30}{subsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.7.1}Traveling Salesman with Metropolis}{30}{subsubsection.2.1.7.1}%
+\contentsline {subsection}{\numberline {2.1.8}Montecarlo integration (da completare MATIAS)}{31}{subsection.2.1.8}%
+\contentsline {subsubsection}{\numberline {2.1.8.1}Importance Sampling: (da completare MATIAS)}{32}{subsubsection.2.1.8.1}%
+\contentsline {paragraph}{The problem of correlation and Variance: How to generated an uncorrelated sample?}{33}{paragraph*.28}%
+\contentsline {chapter}{\numberline {3}Neural networks}{34}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Neural Networks (da RICONTROLLARE DIDO)}{34}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{34}{subsection.3.1.1}%
+\contentsline {paragraph}{How neurons respond to stimulus: Hebb's Law}{34}{paragraph*.31}%
+\contentsline {paragraph}{Brain size in animals:}{35}{paragraph*.33}%
+\contentsline {subsection}{\numberline {3.1.2}Neural Network}{36}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Two simple model of neural network}{37}{subsubsection.3.1.2.1}%
+\contentsline {paragraph}{The perceptron}{37}{paragraph*.34}%
+\contentsline {paragraph}{Ising model}{37}{paragraph*.36}%
+\contentsline {paragraph}{The Little and Hopfield models}{37}{paragraph*.38}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}Associative memory}{38}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.3}Learning by Hebb's Rule}{39}{subsubsection.3.1.2.3}%
+\contentsline {paragraph}{Single stored pattern}{39}{paragraph*.39}%
+\contentsline {paragraph}{Multiple stored pattern:}{40}{paragraph*.40}%
+\contentsline {subsubsection}{\numberline {3.1.2.4}The projection rule}{41}{subsubsection.3.1.2.4}%
+\contentsline {subsubsection}{\numberline {3.1.2.5}An iterative learning scheme}{42}{subsubsection.3.1.2.5}%
+\contentsline {subsubsection}{\numberline {3.1.2.6}Spin Glasses}{43}{subsubsection.3.1.2.6}%
+\contentsline {subsubsection}{\numberline {3.1.2.7}parallel versus Sequential Dynamics}{45}{subsubsection.3.1.2.7}%
+\contentsline {subsubsection}{\numberline {3.1.2.8}Neural motion pictures}{46}{subsubsection.3.1.2.8}%
+\contentsline {subsection}{\numberline {3.1.3}Stochastic neurons}{48}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.3.1}Single pattern}{51}{subsubsection.3.1.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.3.2}Several patterns}{52}{subsubsection.3.1.3.2}%
+\contentsline {subsection}{\numberline {3.1.4}Special Learning Rules}{53}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Perceptrons}{56}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Simple perceptron}{56}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}The exclusive-\textsc {or} (\textsc {xor}) gate}{60}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Multilayered Perceptrons}{62}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Solution of the XOR Problem}{62}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Learning by Error Back-Propagation}{64}{subsubsection.3.2.3.2}%
+\contentsline {subsection}{\numberline {3.2.4}Boolean functions}{69}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Continuous functions}{72}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Generalization and fitting}{75}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}The Boltzmann machine}{77}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Information theory}{78}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Mutual information}{80}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}The ``Boltzmann'' learning rule}{83}{subsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3.1}Applications}{88}{subsubsection.3.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.4}Restrictive Boltzmann machines}{88}{subsection.3.3.4}%
+\contentsline {chapter}{\numberline {4}Machine learning techniques}{91}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction to machine learning}{91}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Supervised/unsupervised learning}{91}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Supervised learning}{91}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}Unsupervised learning}{92}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}Semisupervised learning}{93}{subsubsection.4.1.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.1.4}Reinforcement learning}{93}{subsubsection.4.1.1.4}%
+\contentsline {subsection}{\numberline {4.1.2}Batch and online learning}{94}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Batch learning}{94}{subsubsection.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}Online learning}{95}{subsubsection.4.1.2.2}%
+\contentsline {subsection}{\numberline {4.1.3}Instance-based and model-based learning}{95}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}Instance-based learning}{96}{subsubsection.4.1.3.1}%
+\contentsline {subsubsection}{\numberline {4.1.3.2}Model-based learning}{96}{subsubsection.4.1.3.2}%
+\contentsline {section}{\numberline {4.2}Testing and validating}{96}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Quality of data and preprocessing}{98}{section.4.3}%
+\contentsline {section}{\numberline {4.4}California housing prices}{99}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Frame the problem}{99}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Select a performance measure}{99}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Get the data}{100}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Create a test set}{103}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Data visualization}{106}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}Looking for correlations}{106}{subsection.4.4.6}%
+\contentsline {subsection}{\numberline {4.4.7}Experimenting with attribute combinations}{109}{subsection.4.4.7}%
+\contentsline {subsection}{\numberline {4.4.8}Data cleaning}{110}{subsection.4.4.8}%
+\contentsline {subsection}{\numberline {4.4.9}Handling text and categorical attributes}{111}{subsection.4.4.9}%
+\contentsline {subsection}{\numberline {4.4.10}Feature scaling}{112}{subsection.4.4.10}%
+\contentsline {subsection}{\numberline {4.4.11}Transformation pipelines}{113}{subsection.4.4.11}%
+\contentsline {subsection}{\numberline {4.4.12}Select and train a model}{114}{subsection.4.4.12}%
+\contentsline {subsection}{\numberline {4.4.13}Better evaluation using cross-validation}{115}{subsection.4.4.13}%
+\contentsline {subsection}{\numberline {4.4.14}Fine-tune your model}{117}{subsection.4.4.14}%
+\contentsline {subsection}{\numberline {4.4.15}Analyze the best models and their errors}{119}{subsection.4.4.15}%
+\contentsline {subsection}{\numberline {4.4.16}Evaluate your system on the test set}{119}{subsection.4.4.16}%
+\contentsline {section}{\numberline {4.5}Training models}{120}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Linear regression}{121}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Gradient descent}{124}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Stochastic gradient descent}{126}{subsubsection.4.5.2.1}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Mini-batch gradient descent}{127}{subsubsection.4.5.2.2}%
+\contentsline {subsection}{\numberline {4.5.3}Polynomial regression}{128}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Learning curves}{130}{subsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.4.1}On the nature of errors}{131}{subsubsection.4.5.4.1}%
+\contentsline {subsection}{\numberline {4.5.5}Regularized linear models}{132}{subsection.4.5.5}%
+\contentsline {subsubsection}{\numberline {4.5.5.1}Ridge regression}{132}{subsubsection.4.5.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.5.2}Lasso regression}{133}{subsubsection.4.5.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.5.3}Early stopping}{134}{subsubsection.4.5.5.3}%
+\contentsline {subsection}{\numberline {4.5.6}Logistic regression}{135}{subsection.4.5.6}%
+\contentsline {subsubsection}{\numberline {4.5.6.1}Estimating probabilities}{135}{subsubsection.4.5.6.1}%
+\contentsline {subsubsection}{\numberline {4.5.6.2}Training and cost function}{136}{subsubsection.4.5.6.2}%
+\contentsline {subsubsection}{\numberline {4.5.6.3}Decision boundaries}{136}{subsubsection.4.5.6.3}%
+\contentsline {subsubsection}{\numberline {4.5.6.4}Softmax regression}{137}{subsubsection.4.5.6.4}%
+\contentsline {section}{\numberline {4.6}Support vector machines}{139}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Linear SVM classification}{140}{subsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.1}Soft margin classification}{141}{subsubsection.4.6.1.1}%
+\contentsline {subsection}{\numberline {4.6.2}Nonlinear SVM classification}{141}{subsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.1}Polynomial kernel}{142}{subsubsection.4.6.2.1}%
+\contentsline {subsection}{\numberline {4.6.3}Mathematical formulation}{143}{subsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.1}Decision function and predictions}{144}{subsubsection.4.6.3.1}%
+\contentsline {subsubsection}{\numberline {4.6.3.2}Training objective}{144}{subsubsection.4.6.3.2}%
+\contentsline {subsubsection}{\numberline {4.6.3.3}The dual problem}{145}{subsubsection.4.6.3.3}%
+\contentsline {subsection}{\numberline {4.6.4}Kernelized SVMs}{146}{subsection.4.6.4}%
+\contentsline {section}{\numberline {4.7}Dimensionality reduction}{147}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}The curse of dimensionality}{148}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Main approaches for dimensionality reduction}{148}{subsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.1}Projection}{148}{subsubsection.4.7.2.1}%
+\contentsline {subsubsection}{\numberline {4.7.2.2}Manifold learning}{150}{subsubsection.4.7.2.2}%
+\contentsline {subsection}{\numberline {4.7.3}PCA}{150}{subsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.3.1}Determination of the principal components}{152}{subsubsection.4.7.3.1}%
+\contentsline {subsubsection}{\numberline {4.7.3.2}Choosing the right number of dimensions}{153}{subsubsection.4.7.3.2}%
+\contentsline {subsubsection}{\numberline {4.7.3.3}PCA for compression}{154}{subsubsection.4.7.3.3}%
+\contentsline {subsection}{\numberline {4.7.4}Kernel PCA}{154}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}LLE}{155}{subsection.4.7.5}%
+\contentsline {section}{\numberline {4.8}Unsupervised learning techniques}{156}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Clustering}{156}{subsection.4.8.1}%
+\contentsline {subsubsection}{\numberline {4.8.1.1}K-means}{157}{subsubsection.4.8.1.1}%
+\contentsline {paragraph}{The algorithm}{158}{paragraph*.174}%
+\contentsline {subparagraph}{Centroid initialization methods}{159}{subparagraph*.177}%
+\contentsline {subparagraph}{K-means++}{160}{subparagraph*.179}%
+\contentsline {subparagraph}{Finding the optimal number of clusters}{161}{subparagraph*.180}%
+\contentsline {subparagraph}{Limits of K-means}{163}{subparagraph*.185}%
+\contentsline {subsection}{\numberline {4.8.2}Gaussian mixtures}{164}{subsection.4.8.2}%
+\contentsline {subsubsection}{\numberline {4.8.2.1}Anomaly detection}{167}{subsubsection.4.8.2.1}%
+\contentsline {subsubsection}{\numberline {4.8.2.2}Selecting the number of clusters}{167}{subsubsection.4.8.2.2}%
+\contentsline {paragraph}{Likelihood function}{168}{paragraph*.191}%
+\contentsline {section}{\numberline {4.9}Artificial neural networks with Keras}{169}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Summary of artificial neural networks}{170}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Building an image classifier using Keras}{177}{subsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.2.1}Using Keras to load the dataset}{177}{subsubsection.4.9.2.1}%
+\contentsline {subsubsection}{\numberline {4.9.2.2}Creating the model using the sequential API}{178}{subsubsection.4.9.2.2}%
+\contentsline {subsubsection}{\numberline {4.9.2.3}Compiling the model}{180}{subsubsection.4.9.2.3}%
+\contentsline {subsubsection}{\numberline {4.9.2.4}Training and evaluating the model}{181}{subsubsection.4.9.2.4}%
+\contentsline {section}{\numberline {4.10}Training deep neural networks (credit: Francesco Di Clemente)}{183}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}Learning rate scheduling}{183}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}The vanishing/exploding gradients problems}{183}{subsection.4.10.2}%
+\contentsline {subsection}{\numberline {4.10.3}Faster optimizers}{186}{subsection.4.10.3}%
+\contentsline {subsubsection}{\numberline {4.10.3.1}Momentum optimization}{187}{subsubsection.4.10.3.1}%
+\contentsline {subsubsection}{\numberline {4.10.3.2}Nesterov accelerated gradient}{187}{subsubsection.4.10.3.2}%
+\contentsline {subsubsection}{\numberline {4.10.3.3}AdaGrad}{188}{subsubsection.4.10.3.3}%
+\contentsline {subsubsection}{\numberline {4.10.3.4}RMSProp}{189}{subsubsection.4.10.3.4}%
+\contentsline {subsubsection}{\numberline {4.10.3.5}Adam}{189}{subsubsection.4.10.3.5}%
+\contentsline {subsection}{\numberline {4.10.4}Avoiding overfitting through regularization}{190}{subsection.4.10.4}%
+\contentsline {subsubsection}{\numberline {4.10.4.1}Dropout}{190}{subsubsection.4.10.4.1}%
+\contentsline {subsubsection}{\numberline {4.10.4.2}Monte Carlo dropout}{191}{subsubsection.4.10.4.2}%
+\contentsline {subsection}{\numberline {4.10.5}Example: Higgs dataset}{192}{subsection.4.10.5}%
+\contentsline {section}{\numberline {4.11}Convolutional neural networks}{192}{section.4.11}%
+\contentsline {subsection}{\numberline {4.11.1}Convolutional layers}{193}{subsection.4.11.1}%
+\contentsline {subsubsection}{\numberline {4.11.1.1}Filters}{194}{subsubsection.4.11.1.1}%
+\contentsline {subsubsection}{\numberline {4.11.1.2}Stacking multiple feature maps}{195}{subsubsection.4.11.1.2}%
+\contentsline {subsubsection}{\numberline {4.11.1.3}Memory requirements}{197}{subsubsection.4.11.1.3}%
+\contentsline {subsection}{\numberline {4.11.2}Pooling layers}{198}{subsection.4.11.2}%
+\contentsline {subsection}{\numberline {4.11.3}Data augmentation}{199}{subsection.4.11.3}%
+\contentsline {chapter}{\numberline {5}Adversarial search}{201}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Go}{201}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Basic rules}{201}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}Liberties and capture}{201}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}Ko rule}{203}{subsubsection.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}Suicide}{203}{subsubsection.5.1.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}Life and death}{204}{subsubsection.5.1.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.1.5}Scoring rules}{205}{subsubsection.5.1.1.5}%
+\contentsline {subsection}{\numberline {5.1.2}Tactics}{205}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Ranks and ratings}{206}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}History of chess programming}{206}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Complexity of chess and Go}{207}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Modeling the three phases of Go}{210}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Programming a Go game}{213}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}Coloring the graph}{213}{subsubsection.5.4.1.1}%
+\contentsline {section}{\numberline {5.5}Adversarial search}{214}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Optimal decision: minimax}{215}{subsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.1.1}Multiplayer games}{217}{subsubsection.5.5.1.1}%
+\contentsline {subsection}{\numberline {5.5.2}Alpha–beta pruning}{218}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Evaluation function}{218}{subsection.5.5.3}%
+\contentsline {subsubsection}{\numberline {5.5.3.1}Horizon effect}{220}{subsubsection.5.5.3.1}%
+\contentsline {subsection}{\numberline {5.5.4}Monte Carlo tree search}{221}{subsection.5.5.4}%
+\contentsline {chapter}{\numberline {6}Programs and computer codes}{225}{chapter.6}%
+\contentsline {section}{\numberline {6.1}ASSO: associative memory}{226}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Program description}{228}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Snapshots}{230}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}ASSCOUNT: associative memory for time sequences}{233}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Program description}{234}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Numerical experiments}{234}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Snapshots}{236}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}PERBOOL: learning Boolean functions with back-propagation}{238}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Program description}{239}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Numerical experiments}{241}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Snapshots}{243}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}PERFUNC: learning continuous functions with back-propagation}{246}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Program description}{246}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Numerical experiments}{247}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Snapshots}{248}{subsection.6.4.3}%
+\contentsline {chapter}{\numberline {7}Appendix II}{252}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Appendix}{252}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Appendix A: Statistics Overview}{252}{subsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.1}Definition of PDF}{252}{subsubsection.7.1.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.2}Monovariated PDF and its properties}{252}{subsubsection.7.1.1.2}%
+\contentsline {paragraph}{Mean and variance}{252}{paragraph*.277}%
+\contentsline {subsubsection}{\numberline {7.1.1.3}Bivariated PDF and its properties}{252}{subsubsection.7.1.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.1.4}Chebychev inequality}{253}{subsubsection.7.1.1.4}%
+\contentsline {subsubsection}{\numberline {7.1.1.5}Law of large number with Chebychev}{253}{subsubsection.7.1.1.5}%
+\contentsline {subsubsection}{\numberline {7.1.1.6}Central Limit Theorem}{253}{subsubsection.7.1.1.6}%
+\contentsline {subsubsection}{\numberline {7.1.1.7}Transformation method (funzioni di una variabile aleatoria)}{254}{subsubsection.7.1.1.7}%
+\contentsline {subsection}{\numberline {7.1.2}Appendix B: Introduction to Python}{254}{subsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.1}Class in Python}{254}{subsubsection.7.1.2.1}%
+\addvspace {15pt plus 1pt}
+\contentsline {chapter}{References}{255}{chapter*.279}%
+\contentsline {section}{Books}{255}{section*.280}%
+\contentsline {section}{Articles}{255}{section*.281}%
+\contentsline {section}{Incollections}{255}{section*.282}%
+\contentsline {section}{Technical reports}{256}{section*.283}%
+\contentsline {section}{Lectures notes}{256}{section*.284}%
+\contentsline {section}{Online \& websites}{256}{section*.285}%

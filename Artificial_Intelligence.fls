@@ -1,0 +1,2376 @@
+PWD /home/andrea/Documenti/Programmazione/Artificial Intelligence/AI
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT Artificial_Intelligence.tex
+OUTPUT Artificial_Intelligence.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbc4enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbc4enc.def
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-greek/greek.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-greek/greek.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/varioref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/varioref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texmf/tex/latex/CJK/CJKutf8.sty
+INPUT /usr/share/texmf/tex/latex/CJK/CJKutf8.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+INPUT /usr/share/texmf/tex/latex/CJK/CJK.sty
+INPUT /usr/share/texmf/tex/latex/CJK/CJK.sty
+INPUT /usr/share/texmf/tex/latex/CJK/mule/MULEenc.sty
+INPUT /usr/share/texmf/tex/latex/CJK/mule/MULEenc.sty
+INPUT /usr/share/texmf/tex/latex/CJK/CJK.enc
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/was/upgreek.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/was/upgreek.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/extarrows/extarrows.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/extarrows/extarrows.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/empheq.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/empheq.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/chessfss.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/chessfss.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsienc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsienc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xskak/xskak.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xskak/xskak.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/skak/skak.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/skak/skak.sty
+INPUT /usr/share/texlive/texmf-dist/tex/plain/lambda-lists/lambda.sty
+INPUT /usr/share/texlive/texmf-dist/tex/plain/lambda-lists/lambda.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/skaknew/SkakNew-Diagram.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1000.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-keys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-keys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfornament/pgfornament.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfornament/pgfornament.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfornament/pgflibraryvectorian.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfornament/pgflibraryvectorian.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+OUTPUT Artificial_Intelligence.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/genmisc/nth.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/genmisc/nth.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/attachfile/attachfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/attachfile/attachfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/silence/silence.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/silence/silence.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryspy.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryspy.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorations.softclip.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorations.softclip.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetween.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decorations.softclip.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decorations.softclip.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.text.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.text.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.text.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.text.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.groupplots.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.groupplots.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.external.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.external.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzexternalshared.code.tex
+OUTPUT Artificial_Intelligence.auxlock
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSansMono-tlf-t1.tfm
+INPUT Animation_8_Puzzle.txt
+OUTPUT Animation_8_Puzzle.txt
+INPUT Animation_Go_Game.txt
+OUTPUT Animation_Go_Game.txt
+INPUT Artificial_Intelligence.aux
+INPUT Artificial_Intelligence.aux
+OUTPUT Artificial_Intelligence.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbc4skaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsbc4skaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsiskaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chessfss/lsiskaknew.fd
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/greek.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/greek.lbx
+OUTPUT Artificial_Intelligence.bcf
+INPUT Artificial_Intelligence.bbl
+INPUT Artificial_Intelligence.bbl
+INPUT Artificial_Intelligence.bbl
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-binary.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-binary.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT Immagini/Cover.jpg
+INPUT ./Immagini/Cover.jpg
+INPUT ./Immagini/Cover.jpg
+INPUT Immagini/LogoUnife.pdf
+INPUT ./Immagini/LogoUnife.pdf
+INPUT ./Immagini/LogoUnife.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2986.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2986.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecxc2986.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2488.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2488.tfm
+INPUT Artificial_Intelligence.toc
+INPUT Artificial_Intelligence.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc1095.tfm
+OUTPUT Artificial_Intelligence.toc
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1095.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfornament/vectorian/vectorian89.pgf
+INPUT Chapter_1.tex
+INPUT Chapter_1.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecxc2074.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm3583.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
+INPUT Immagini/Simple Agent.pdf
+INPUT ./Immagini/Simple Agent.pdf
+INPUT ./Immagini/Simple Agent.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0900.tfm
+INPUT Immagini/Goal Based.pdf
+INPUT ./Immagini/Goal Based.pdf
+INPUT ./Immagini/Goal Based.pdf
+INPUT Immagini/Model Based.pdf
+INPUT ./Immagini/Model Based.pdf
+INPUT ./Immagini/Model Based.pdf
+INPUT Immagini/Utility Agent.pdf
+INPUT ./Immagini/Utility Agent.pdf
+INPUT ./Immagini/Utility Agent.pdf
+INPUT Immagini/Learning Agent.pdf
+INPUT ./Immagini/Learning Agent.pdf
+INPUT ./Immagini/Learning Agent.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
+INPUT Figure. Missionaries and Cannibals Problem.tex
+INPUT Figure. Missionaries and Cannibals Problem.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1095.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
+INPUT Animation_8_Puzzle.txt
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
+INPUT Animation_8_Puzzle.txt
+INPUT Animation_8_Puzzle.txt
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecit1000.tfm
+INPUT Immagini/Romania Map.pdf
+INPUT ./Immagini/Romania Map.pdf
+INPUT ./Immagini/Romania Map.pdf
+INPUT Immagini/binary_tree.jpg
+INPUT ./Immagini/binary_tree.jpg
+INPUT ./Immagini/binary_tree.jpg
+INPUT Immagini/Breadth.pdf
+INPUT ./Immagini/Breadth.pdf
+INPUT ./Immagini/Breadth.pdf
+INPUT Immagini/Comparison.pdf
+INPUT ./Immagini/Comparison.pdf
+INPUT ./Immagini/Comparison.pdf
+INPUT Immagini/Maxmin.pdf
+INPUT ./Immagini/Maxmin.pdf
+INPUT ./Immagini/Maxmin.pdf
+INPUT Immagini/Ridges.pdf
+INPUT ./Immagini/Ridges.pdf
+INPUT ./Immagini/Ridges.pdf
+INPUT Immagini/Genetic Algorithm (1).pdf
+INPUT ./Immagini/Genetic Algorithm (1).pdf
+INPUT ./Immagini/Genetic Algorithm (1).pdf
+INPUT Immagini/Genetic Algorithm (2).pdf
+INPUT ./Immagini/Genetic Algorithm (2).pdf
+INPUT ./Immagini/Genetic Algorithm (2).pdf
+INPUT Chapter_2.tex
+INPUT Chapter_2.tex
+INPUT Immagini/LCG.pdf
+INPUT ./Immagini/LCG.pdf
+INPUT ./Immagini/LCG.pdf
+INPUT Immagini/RANDU.pdf
+INPUT ./Immagini/RANDU.pdf
+INPUT ./Immagini/RANDU.pdf
+INPUT Attachments/Spectral Test.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecit1095.tfm
+INPUT Immagini/Transformation Method.pdf
+INPUT ./Immagini/Transformation Method.pdf
+INPUT ./Immagini/Transformation Method.pdf
+INPUT Immagini/Rejection Method.PNG
+INPUT ./Immagini/Rejection Method.PNG
+INPUT ./Immagini/Rejection Method.PNG
+INPUT Immagini/Montecarlo integration.PNG
+INPUT ./Immagini/Montecarlo integration.PNG
+INPUT ./Immagini/Montecarlo integration.PNG
+INPUT Immagini/Partial Autocorrelation.png
+INPUT ./Immagini/Partial Autocorrelation.png
+INPUT ./Immagini/Partial Autocorrelation.png
+INPUT Chapter_3.tex
+INPUT Chapter_3.tex
+INPUT Immagini/Synaptic Junction.pdf
+INPUT ./Immagini/Synaptic Junction.pdf
+INPUT ./Immagini/Synaptic Junction.pdf
+INPUT Immagini/DendriticHarborization.pdf
+INPUT ./Immagini/DendriticHarborization.pdf
+INPUT ./Immagini/DendriticHarborization.pdf
+INPUT Immagini/SimplePerceptron.pdf
+INPUT ./Immagini/SimplePerceptron.pdf
+INPUT ./Immagini/SimplePerceptron.pdf
+INPUT Immagini/SpinIsing.pdf
+INPUT ./Immagini/SpinIsing.pdf
+INPUT ./Immagini/SpinIsing.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbi1095.tfm
+INPUT Immagini/exponential.pdf
+INPUT ./Immagini/exponential.pdf
+INPUT ./Immagini/exponential.pdf
+INPUT Immagini/Order Parameter.PNG
+INPUT ./Immagini/Order Parameter.PNG
+INPUT ./Immagini/Order Parameter.PNG
+INPUT Immagini/Basin of Attraction.PNG
+INPUT ./Immagini/Basin of Attraction.PNG
+INPUT ./Immagini/Basin of Attraction.PNG
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecxc1200.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc0600.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc0900.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0600.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0500.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc0500.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0700.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc0700.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT Attachments/backpropagation.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT TikzExternalize/Tikz-Figure-0.md5
+INPUT TikzExternalize/Tikz-Figure-0.pdf
+INPUT TikzExternalize/Tikz-Figure-0.dpth
+INPUT TikzExternalize/Tikz-Figure-0.pdf
+INPUT ./TikzExternalize/Tikz-Figure-0.pdf
+INPUT TikzExternalize/Tikz-Figure-1.md5
+INPUT TikzExternalize/Tikz-Figure-1.pdf
+INPUT TikzExternalize/Tikz-Figure-1.dpth
+INPUT TikzExternalize/Tikz-Figure-1.pdf
+INPUT ./TikzExternalize/Tikz-Figure-1.pdf
+INPUT Attachments/Continuous Functions.nb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Chapter_4.tex
+INPUT Chapter_4.tex
+INPUT Immagini/Supervised Learning (1).png
+INPUT ./Immagini/Supervised Learning (1).png
+INPUT ./Immagini/Supervised Learning (1).png
+INPUT Immagini/Supervised Learning (2).png
+INPUT ./Immagini/Supervised Learning (2).png
+INPUT ./Immagini/Supervised Learning (2).png
+INPUT Immagini/Unsupervised Learning (1).png
+INPUT ./Immagini/Unsupervised Learning (1).png
+INPUT ./Immagini/Unsupervised Learning (1).png
+INPUT Immagini/Unsupervised Learning (2).png
+INPUT ./Immagini/Unsupervised Learning (2).png
+INPUT ./Immagini/Unsupervised Learning (2).png
+INPUT Immagini/Semisupervised Learning.png
+INPUT ./Immagini/Semisupervised Learning.png
+INPUT ./Immagini/Semisupervised Learning.png
+INPUT Immagini/Reinforcement Learning.png
+INPUT ./Immagini/Reinforcement Learning.png
+INPUT ./Immagini/Reinforcement Learning.png
+INPUT Immagini/Online Learning.png
+INPUT ./Immagini/Online Learning.png
+INPUT ./Immagini/Online Learning.png
+INPUT Immagini/Model-Based Learning.png
+INPUT ./Immagini/Model-Based Learning.png
+INPUT ./Immagini/Model-Based Learning.png
+INPUT Attachments/02_end_to_end_machine_learning_project.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/02_[5]_Out.pdf
+INPUT ./Immagini/02_[5]_Out.pdf
+INPUT ./Immagini/02_[5]_Out.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSansMono-Oblique-tlf-t1.tfm
+INPUT Immagini/02_[6]_In.pdf
+INPUT ./Immagini/02_[6]_In.pdf
+INPUT ./Immagini/02_[6]_In.pdf
+INPUT Immagini/02_[7]_In-Out.pdf
+INPUT ./Immagini/02_[7]_In-Out.pdf
+INPUT ./Immagini/02_[7]_In-Out.pdf
+INPUT Immagini/02_[8]_Out.pdf
+INPUT ./Immagini/02_[8]_Out.pdf
+INPUT ./Immagini/02_[8]_Out.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSansMono-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSansMono-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/dejavu/DejaVuSansMono-Oblique-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/dejavu/DejaVuSansMono-Oblique-tlf-t1--base.tfm
+INPUT Immagini/02_[9]_In.pdf
+INPUT ./Immagini/02_[9]_In.pdf
+INPUT ./Immagini/02_[9]_In.pdf
+INPUT Immagini/02_[24]_In-Out.pdf
+INPUT ./Immagini/02_[24]_In-Out.pdf
+INPUT ./Immagini/02_[24]_In-Out.pdf
+INPUT Immagini/02_[25]_Out.pdf
+INPUT ./Immagini/02_[25]_Out.pdf
+INPUT ./Immagini/02_[25]_Out.pdf
+INPUT Immagini/02_[27]_In-Out.pdf
+INPUT ./Immagini/02_[27]_In-Out.pdf
+INPUT ./Immagini/02_[27]_In-Out.pdf
+INPUT Immagini/02_[30]_Out.pdf
+INPUT ./Immagini/02_[30]_Out.pdf
+INPUT ./Immagini/02_[30]_Out.pdf
+INPUT Immagini/02_[33]_In.png
+INPUT ./Immagini/02_[33]_In.png
+INPUT ./Immagini/02_[33]_In.png
+INPUT Immagini/02_[34]_In.png
+INPUT ./Immagini/02_[34]_In.png
+INPUT ./Immagini/02_[34]_In.png
+INPUT Immagini/02_[37]_In.pdf
+INPUT ./Immagini/02_[37]_In.pdf
+INPUT ./Immagini/02_[37]_In.pdf
+INPUT Immagini/02_[38-39]_In-Out.pdf
+INPUT ./Immagini/02_[38-39]_In-Out.pdf
+INPUT ./Immagini/02_[38-39]_In-Out.pdf
+INPUT Immagini/Pearson Correlation Coefficient.pdf
+INPUT ./Immagini/Pearson Correlation Coefficient.pdf
+INPUT ./Immagini/Pearson Correlation Coefficient.pdf
+INPUT Immagini/02_[40]_In.png
+INPUT ./Immagini/02_[40]_In.png
+INPUT ./Immagini/02_[40]_In.png
+INPUT Immagini/02_[41]_In.png
+INPUT ./Immagini/02_[41]_In.png
+INPUT ./Immagini/02_[41]_In.png
+INPUT Immagini/02_[42-43]_In-Out.pdf
+INPUT ./Immagini/02_[42-43]_In-Out.pdf
+INPUT ./Immagini/02_[42-43]_In-Out.pdf
+INPUT Immagini/02_[47]_Out.pdf
+INPUT ./Immagini/02_[47]_Out.pdf
+INPUT ./Immagini/02_[47]_Out.pdf
+INPUT Immagini/02_[63]_Out.pdf
+INPUT ./Immagini/02_[63]_Out.pdf
+INPUT ./Immagini/02_[63]_Out.pdf
+INPUT Immagini/02_[64]_Out.pdf
+INPUT ./Immagini/02_[64]_Out.pdf
+INPUT ./Immagini/02_[64]_Out.pdf
+INPUT Immagini/02_[65]_In-Out.pdf
+INPUT ./Immagini/02_[65]_In-Out.pdf
+INPUT ./Immagini/02_[65]_In-Out.pdf
+INPUT Immagini/02_[67]_In-Out.pdf
+INPUT ./Immagini/02_[67]_In-Out.pdf
+INPUT ./Immagini/02_[67]_In-Out.pdf
+INPUT Immagini/02_[77]_In-Out.pdf
+INPUT ./Immagini/02_[77]_In-Out.pdf
+INPUT ./Immagini/02_[77]_In-Out.pdf
+INPUT Immagini/02_[84-85]_In.pdf
+INPUT ./Immagini/02_[84-85]_In.pdf
+INPUT ./Immagini/02_[84-85]_In.pdf
+INPUT Immagini/02_[87]_In-Out.pdf
+INPUT ./Immagini/02_[87]_In-Out.pdf
+INPUT ./Immagini/02_[87]_In-Out.pdf
+INPUT Immagini/02_[89-90]_In-Out.pdf
+INPUT ./Immagini/02_[89-90]_In-Out.pdf
+INPUT ./Immagini/02_[89-90]_In-Out.pdf
+INPUT Immagini/02_[91-92]_In.pdf
+INPUT ./Immagini/02_[91-92]_In.pdf
+INPUT ./Immagini/02_[91-92]_In.pdf
+INPUT Immagini/02_[93]_In.pdf
+INPUT ./Immagini/02_[93]_In.pdf
+INPUT ./Immagini/02_[93]_In.pdf
+INPUT Immagini/02_[94-96]_In-Out.pdf
+INPUT ./Immagini/02_[94-96]_In-Out.pdf
+INPUT ./Immagini/02_[94-96]_In-Out.pdf
+INPUT Immagini/02_[99]_In-Out.pdf
+INPUT ./Immagini/02_[99]_In-Out.pdf
+INPUT ./Immagini/02_[99]_In-Out.pdf
+INPUT Immagini/02_[100]_In-Out.pdf
+INPUT ./Immagini/02_[100]_In-Out.pdf
+INPUT ./Immagini/02_[100]_In-Out.pdf
+INPUT Immagini/02_[102]_In.pdf
+INPUT ./Immagini/02_[102]_In.pdf
+INPUT ./Immagini/02_[102]_In.pdf
+INPUT Immagini/02_[107]_In-Out.pdf
+INPUT ./Immagini/02_[107]_In-Out.pdf
+INPUT ./Immagini/02_[107]_In-Out.pdf
+INPUT Attachments/04_training_linear_models.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlbmia.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/LibertineMathBRM.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbmiaSTbb.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlbmia.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/LibertineMathBRM.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbmiaSTbb.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
+INPUT Immagini/04_[2]_In.pdf
+INPUT ./Immagini/04_[2]_In.pdf
+INPUT ./Immagini/04_[2]_In.pdf
+INPUT Immagini/04_[4-5]_In-Out.pdf
+INPUT ./Immagini/04_[4-5]_In-Out.pdf
+INPUT ./Immagini/04_[4-5]_In-Out.pdf
+INPUT Immagini/04_[8]_In.pdf
+INPUT ./Immagini/04_[8]_In.pdf
+INPUT ./Immagini/04_[8]_In.pdf
+INPUT Immagini/04_[9]_In-Out.pdf
+INPUT ./Immagini/04_[9]_In-Out.pdf
+INPUT ./Immagini/04_[9]_In-Out.pdf
+INPUT Immagini/Gradient Descent.png
+INPUT ./Immagini/Gradient Descent.png
+INPUT ./Immagini/Gradient Descent.png
+INPUT Immagini/04_[17]_In.pdf
+INPUT ./Immagini/04_[17]_In.pdf
+INPUT ./Immagini/04_[17]_In.pdf
+INPUT Immagini/Gradient Descent Pitfalls.png
+INPUT ./Immagini/Gradient Descent Pitfalls.png
+INPUT ./Immagini/Gradient Descent Pitfalls.png
+INPUT Immagini/Gradient Descent Scale.png
+INPUT ./Immagini/Gradient Descent Scale.png
+INPUT ./Immagini/Gradient Descent Scale.png
+INPUT Immagini/Stochastic Gradient Descent.png
+INPUT ./Immagini/Stochastic Gradient Descent.png
+INPUT ./Immagini/Stochastic Gradient Descent.png
+INPUT Immagini/04_[19]_In.pdf
+INPUT ./Immagini/04_[19]_In.pdf
+INPUT ./Immagini/04_[19]_In.pdf
+INPUT Immagini/04_[26]_In.pdf
+INPUT ./Immagini/04_[26]_In.pdf
+INPUT ./Immagini/04_[26]_In.pdf
+INPUT Immagini/04_[28-32]_In-Out.pdf
+INPUT ./Immagini/04_[28-32]_In-Out.pdf
+INPUT ./Immagini/04_[28-32]_In-Out.pdf
+INPUT Immagini/04_[33]_In.pdf
+INPUT ./Immagini/04_[33]_In.pdf
+INPUT ./Immagini/04_[33]_In.pdf
+INPUT Immagini/04_[34]_In.pdf
+INPUT ./Immagini/04_[34]_In.pdf
+INPUT ./Immagini/04_[34]_In.pdf
+INPUT Immagini/04_[36]_In.pdf
+INPUT ./Immagini/04_[36]_In.pdf
+INPUT ./Immagini/04_[36]_In.pdf
+INPUT Immagini/04_[37]_In.pdf
+INPUT ./Immagini/04_[37]_In.pdf
+INPUT ./Immagini/04_[37]_In.pdf
+INPUT Immagini/04_[41]_In.pdf
+INPUT ./Immagini/04_[41]_In.pdf
+INPUT ./Immagini/04_[41]_In.pdf
+INPUT Immagini/04_[43]_In.pdf
+INPUT ./Immagini/04_[43]_In.pdf
+INPUT ./Immagini/04_[43]_In.pdf
+INPUT Immagini/04_[48]_In.pdf
+INPUT ./Immagini/04_[48]_In.pdf
+INPUT ./Immagini/04_[48]_In.pdf
+INPUT Immagini/04_[53]_In.pdf
+INPUT ./Immagini/04_[53]_In.pdf
+INPUT ./Immagini/04_[53]_In.pdf
+INPUT Immagini/Iris.png
+INPUT ./Immagini/Iris.png
+INPUT ./Immagini/Iris.png
+INPUT Immagini/04_[59]_In.pdf
+INPUT ./Immagini/04_[59]_In.pdf
+INPUT ./Immagini/04_[59]_In.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlbmia.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/LibertineMathBRM.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbmiaSTbb.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
+INPUT Immagini/04_[62]_In.pdf
+INPUT ./Immagini/04_[62]_In.pdf
+INPUT ./Immagini/04_[62]_In.pdf
+INPUT Immagini/04_[64]_In.pdf
+INPUT ./Immagini/04_[64]_In.pdf
+INPUT ./Immagini/04_[64]_In.pdf
+INPUT Attachments/05_support_vector_machines.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/05_[3]_In.pdf
+INPUT ./Immagini/05_[3]_In.pdf
+INPUT ./Immagini/05_[3]_In.pdf
+INPUT Immagini/05_[4]_In.pdf
+INPUT ./Immagini/05_[4]_In.pdf
+INPUT ./Immagini/05_[4]_In.pdf
+INPUT Immagini/05_[5]_In.pdf
+INPUT ./Immagini/05_[5]_In.pdf
+INPUT ./Immagini/05_[5]_In.pdf
+INPUT Immagini/05_[10]_In.pdf
+INPUT ./Immagini/05_[10]_In.pdf
+INPUT ./Immagini/05_[10]_In.pdf
+INPUT Immagini/05_[11]_In.pdf
+INPUT ./Immagini/05_[11]_In.pdf
+INPUT ./Immagini/05_[11]_In.pdf
+INPUT Immagini/05_[13]_In.pdf
+INPUT ./Immagini/05_[13]_In.pdf
+INPUT ./Immagini/05_[13]_In.pdf
+INPUT Immagini/05_[14]_In.pdf
+INPUT ./Immagini/05_[14]_In.pdf
+INPUT ./Immagini/05_[14]_In.pdf
+INPUT Immagini/05_[17]_In.pdf
+INPUT ./Immagini/05_[17]_In.pdf
+INPUT ./Immagini/05_[17]_In.pdf
+INPUT Immagini/05_[31]_In.pdf
+INPUT ./Immagini/05_[31]_In.pdf
+INPUT ./Immagini/05_[31]_In.pdf
+INPUT Immagini/05_[32]_In.pdf
+INPUT ./Immagini/05_[32]_In.pdf
+INPUT ./Immagini/05_[32]_In.pdf
+INPUT Attachments/08_dimensionality_reduction.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/08_[24]_In.pdf
+INPUT ./Immagini/08_[24]_In.pdf
+INPUT ./Immagini/08_[24]_In.pdf
+INPUT Immagini/08_[25]_In.pdf
+INPUT ./Immagini/08_[25]_In.pdf
+INPUT ./Immagini/08_[25]_In.pdf
+INPUT Immagini/08_[27]_In.pdf
+INPUT ./Immagini/08_[27]_In.pdf
+INPUT ./Immagini/08_[27]_In.pdf
+INPUT Immagini/08_[28]_In.pdf
+INPUT ./Immagini/08_[28]_In.pdf
+INPUT ./Immagini/08_[28]_In.pdf
+INPUT Immagini/08_[29]_In (3).pdf
+INPUT ./Immagini/08_[29]_In (3).pdf
+INPUT ./Immagini/08_[29]_In (3).pdf
+INPUT Immagini/08_[29]_In (4).pdf
+INPUT ./Immagini/08_[29]_In (4).pdf
+INPUT ./Immagini/08_[29]_In (4).pdf
+INPUT Immagini/08_[29]_In (1).pdf
+INPUT ./Immagini/08_[29]_In (1).pdf
+INPUT ./Immagini/08_[29]_In (1).pdf
+INPUT Immagini/08_[29]_In (2).pdf
+INPUT ./Immagini/08_[29]_In (2).pdf
+INPUT ./Immagini/08_[29]_In (2).pdf
+INPUT Immagini/08_[30]_In.pdf
+INPUT ./Immagini/08_[30]_In.pdf
+INPUT ./Immagini/08_[30]_In.pdf
+INPUT Immagini/08_[3]_In.pdf
+INPUT ./Immagini/08_[3]_In.pdf
+INPUT ./Immagini/08_[3]_In.pdf
+INPUT Immagini/08_[9-10]_In-Out.pdf
+INPUT ./Immagini/08_[9-10]_In-Out.pdf
+INPUT ./Immagini/08_[9-10]_In-Out.pdf
+INPUT Immagini/08_[35]_In.pdf
+INPUT ./Immagini/08_[35]_In.pdf
+INPUT ./Immagini/08_[35]_In.pdf
+INPUT Immagini/08_[41]_In.pdf
+INPUT ./Immagini/08_[41]_In.pdf
+INPUT ./Immagini/08_[41]_In.pdf
+INPUT Immagini/08_[67]_In.pdf
+INPUT ./Immagini/08_[67]_In.pdf
+INPUT ./Immagini/08_[67]_In.pdf
+INPUT Attachments/09_unsupervised_learning.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/09_[4]_In.pdf
+INPUT ./Immagini/09_[4]_In.pdf
+INPUT ./Immagini/09_[4]_In.pdf
+INPUT Immagini/09_[16]_In.pdf
+INPUT ./Immagini/09_[16]_In.pdf
+INPUT ./Immagini/09_[16]_In.pdf
+INPUT Immagini/X Centroids.pdf
+INPUT ./Immagini/X Centroids.pdf
+INPUT ./Immagini/X Centroids.pdf
+INPUT Immagini/09_[25]_In.pdf
+INPUT ./Immagini/09_[25]_In.pdf
+INPUT ./Immagini/09_[25]_In.pdf
+INPUT Immagini/09_[29]_In.pdf
+INPUT ./Immagini/09_[29]_In.pdf
+INPUT ./Immagini/09_[29]_In.pdf
+INPUT Immagini/09_[31]_In.pdf
+INPUT ./Immagini/09_[31]_In.pdf
+INPUT ./Immagini/09_[31]_In.pdf
+INPUT Immagini/09_[32-34]_In-Out.pdf
+INPUT ./Immagini/09_[32-34]_In-Out.pdf
+INPUT ./Immagini/09_[32-34]_In-Out.pdf
+INPUT Immagini/09_[59]_In.pdf
+INPUT ./Immagini/09_[59]_In.pdf
+INPUT ./Immagini/09_[59]_In.pdf
+INPUT Immagini/09_[63]_In.pdf
+INPUT ./Immagini/09_[63]_In.pdf
+INPUT ./Immagini/09_[63]_In.pdf
+INPUT Immagini/09_[68]_In.pdf
+INPUT ./Immagini/09_[68]_In.pdf
+INPUT ./Immagini/09_[68]_In.pdf
+INPUT Immagini/09_[69]_In.pdf
+INPUT ./Immagini/09_[69]_In.pdf
+INPUT ./Immagini/09_[69]_In.pdf
+INPUT Immagini/09_[73]_In.pdf
+INPUT ./Immagini/09_[73]_In.pdf
+INPUT ./Immagini/09_[73]_In.pdf
+INPUT Immagini/09_[71]_In.pdf
+INPUT ./Immagini/09_[71]_In.pdf
+INPUT ./Immagini/09_[71]_In.pdf
+INPUT Immagini/09_[141-145]_In-Out.pdf
+INPUT ./Immagini/09_[141-145]_In-Out.pdf
+INPUT ./Immagini/09_[141-145]_In-Out.pdf
+INPUT Immagini/09_[155]_In.pdf
+INPUT ./Immagini/09_[155]_In.pdf
+INPUT ./Immagini/09_[155]_In.pdf
+INPUT Immagini/09_[161]_In.pdf
+INPUT ./Immagini/09_[161]_In.pdf
+INPUT ./Immagini/09_[161]_In.pdf
+INPUT Immagini/09_[186]_In.pdf
+INPUT ./Immagini/09_[186]_In.pdf
+INPUT ./Immagini/09_[186]_In.pdf
+INPUT Attachments/10_neural_nets_with_keras.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/10_[2]_In.pdf
+INPUT ./Immagini/10_[2]_In.pdf
+INPUT ./Immagini/10_[2]_In.pdf
+INPUT Immagini/10_[4]_In.pdf
+INPUT ./Immagini/10_[4]_In.pdf
+INPUT ./Immagini/10_[4]_In.pdf
+INPUT Immagini/10_[6]_In.pdf
+INPUT ./Immagini/10_[6]_In.pdf
+INPUT ./Immagini/10_[6]_In.pdf
+INPUT Immagini/10_[22]_In.pdf
+INPUT ./Immagini/10_[22]_In.pdf
+INPUT ./Immagini/10_[22]_In.pdf
+INPUT Immagini/10_[12-15]_In-Out.pdf
+INPUT ./Immagini/10_[12-15]_In-Out.pdf
+INPUT ./Immagini/10_[12-15]_In-Out.pdf
+INPUT Immagini/10_[17-19]_In-Out.pdf
+INPUT ./Immagini/10_[17-19]_In-Out.pdf
+INPUT ./Immagini/10_[17-19]_In-Out.pdf
+INPUT Immagini/10_[23-25]_In.pdf
+INPUT ./Immagini/10_[23-25]_In.pdf
+INPUT ./Immagini/10_[23-25]_In.pdf
+INPUT Immagini/10_[27]_In.pdf
+INPUT ./Immagini/10_[27]_In.pdf
+INPUT ./Immagini/10_[27]_In.pdf
+INPUT Immagini/10_[31-33]_In-Out.pdf
+INPUT ./Immagini/10_[31-33]_In-Out.pdf
+INPUT ./Immagini/10_[31-33]_In-Out.pdf
+INPUT Immagini/10_[36]_In.pdf
+INPUT ./Immagini/10_[36]_In.pdf
+INPUT ./Immagini/10_[36]_In.pdf
+INPUT Immagini/10_[37]_In.pdf
+INPUT ./Immagini/10_[37]_In.pdf
+INPUT ./Immagini/10_[37]_In.pdf
+INPUT Immagini/10_[41]_In.pdf
+INPUT ./Immagini/10_[41]_In.pdf
+INPUT ./Immagini/10_[41]_In.pdf
+INPUT Immagini/Learning Schedule.png
+INPUT ./Immagini/Learning Schedule.png
+INPUT ./Immagini/Learning Schedule.png
+INPUT Immagini/Activation_Function_Sigmoid.pdf
+INPUT ./Immagini/Activation_Function_Sigmoid.pdf
+INPUT ./Immagini/Activation_Function_Sigmoid.pdf
+INPUT Immagini/Activation_Function_Hyperbolic_Tangent.pdf
+INPUT ./Immagini/Activation_Function_Hyperbolic_Tangent.pdf
+INPUT ./Immagini/Activation_Function_Hyperbolic_Tangent.pdf
+INPUT Immagini/Activation_Function_ReLU.pdf
+INPUT ./Immagini/Activation_Function_ReLU.pdf
+INPUT ./Immagini/Activation_Function_ReLU.pdf
+INPUT Immagini/Activation_Function_Leaky_ReLU.pdf
+INPUT ./Immagini/Activation_Function_Leaky_ReLU.pdf
+INPUT ./Immagini/Activation_Function_Leaky_ReLU.pdf
+INPUT Immagini/Activation_Function_SiLU.pdf
+INPUT ./Immagini/Activation_Function_SiLU.pdf
+INPUT ./Immagini/Activation_Function_SiLU.pdf
+INPUT Immagini/Activation_Function_Mish.pdf
+INPUT ./Immagini/Activation_Function_Mish.pdf
+INPUT ./Immagini/Activation_Function_Mish.pdf
+INPUT Attachments/Activation Functions.ipynb
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0600.tfm
+INPUT Immagini/NAG.png
+INPUT ./Immagini/NAG.png
+INPUT ./Immagini/NAG.png
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_1.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_1.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_1.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_1.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_1.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_2.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_2.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_2.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_2.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_2.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_3.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_3.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_3.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_3.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_3.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_4.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_4.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_4.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_4.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_4.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_5.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_5.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_5.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_5.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_5.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_6.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_6.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_6.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_6.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_6.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_7.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_7.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_7.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_7.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_7.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_8.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_8.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_8.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_8.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_8.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_9.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_9.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_9.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_9.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_9.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_10.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_10.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_10.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_10.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_10.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_11.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_11.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_11.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_11.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_11.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_12.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_12.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_12.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_12.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_12.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_13.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_13.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_13.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_13.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_13.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_14.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_14.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_14.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_14.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_14.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_15.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_15.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_15.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_15.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_15.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_16.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_16.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_16.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_16.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_16.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_17.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_17.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_17.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_17.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_17.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_18.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_18.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_18.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_18.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_18.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_19.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_19.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_19.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_19.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_19.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_20.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_20.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_20.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_20.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_20.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_21.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_21.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_21.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_21.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_21.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_22.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_22.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_22.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_22.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_22.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_23.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_23.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_23.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_23.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_23.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_24.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_24.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_24.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_24.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_24.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_25.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_25.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_25.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_25.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_25.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_26.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_26.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_26.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_26.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_26.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_27.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_27.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_27.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_27.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_27.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_28.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_28.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_28.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_28.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_28.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_29.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_29.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_29.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_29.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_29.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_30.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_30.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_31.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_31.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_31.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_31.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_31.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_32.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_32.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_32.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_32.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_32.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_33.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_33.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_33.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_33.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_33.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_34.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_34.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_34.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_34.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_34.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_35.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_35.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_35.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_35.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_35.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_36.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_36.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_36.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_36.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_36.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_37.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_37.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_37.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_37.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_37.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_38.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_38.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_38.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_38.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_38.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_39.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_39.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_39.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_39.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_39.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_40.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_40.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_40.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_40.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_40.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_41.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_41.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_41.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_41.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_41.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_42.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_42.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_42.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_42.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_42.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_43.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_43.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_43.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_43.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_43.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_44.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_44.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_44.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_44.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_44.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_45.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_45.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_45.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_45.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_45.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_46.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_46.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_46.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_46.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_46.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_47.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_47.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_47.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_47.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_47.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_48.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_48.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_48.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_48.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_48.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_49.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_49.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_49.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_49.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_49.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_50.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_50.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_50.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_50.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_50.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_51.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_51.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_51.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_51.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_51.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_52.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_52.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_52.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_52.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_52.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_53.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_53.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_53.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_53.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_53.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_54.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_54.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_54.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_54.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_54.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_55.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_55.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_55.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_55.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_55.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_56.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_56.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_56.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_56.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_56.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_57.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_57.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_57.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_57.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_57.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_58.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_58.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_58.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_58.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_58.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_59.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_59.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_60.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_60.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_60.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_60.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_60.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_61.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_61.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_61.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_61.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_61.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_62.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_62.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_62.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_62.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_62.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_63.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_63.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_63.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_63.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_63.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_64.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_64.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_64.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_64.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_64.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_65.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_65.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_65.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_65.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_65.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_66.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_66.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_66.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_66.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_66.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_67.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_67.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_67.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_67.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_67.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_68.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_68.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_68.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_68.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_68.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_69.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_69.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_69.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_69.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_69.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_70.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_70.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_70.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_70.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_70.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_71.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_71.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_71.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_71.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_71.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_72.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_72.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_72.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_72.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_72.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_73.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_73.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_73.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_73.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_73.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_74.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_74.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_74.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_74.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_74.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_75.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_75.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_75.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_75.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_75.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_76.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_76.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_76.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_76.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_76.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_77.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_77.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_77.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_77.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_77.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_78.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_78.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_78.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_78.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_78.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_79.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_79.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_79.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_79.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_79.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_80.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_80.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_80.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_80.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_80.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_81.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_81.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_81.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_81.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_81.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_82.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_82.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_82.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_82.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_82.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_83.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_83.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_83.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_83.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_83.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_84.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_84.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_84.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_84.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_84.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_85.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_85.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_85.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_85.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_85.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_86.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_86.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_86.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_86.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_86.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_87.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_87.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_87.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_87.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_87.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_88.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_88.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_88.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_88.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_88.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_89.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_89.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_89.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_89.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_89.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_90.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_90.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_90.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_90.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_90.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_91.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_91.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_91.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_91.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_91.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_92.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_92.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_92.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_92.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_92.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_93.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_93.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_93.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_93.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_93.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_94.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_94.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_94.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_94.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_94.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_95.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_95.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_95.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_95.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_95.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_96.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_96.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_96.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_96.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_96.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_97.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_97.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_97.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_97.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_97.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_98.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_98.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_98.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_98.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_98.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_99.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_99.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_99.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_99.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_99.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_100.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_100.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_100.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_100.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_100.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_101.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_101.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_101.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_101.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_101.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_102.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_102.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_102.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_102.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_102.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_103.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_103.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_103.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_103.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_103.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_104.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_104.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_104.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_104.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_104.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_105.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_105.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_105.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_105.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_105.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_106.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_106.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_106.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_106.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_106.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_107.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_107.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_107.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_107.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_107.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_108.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_108.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_108.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_108.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_108.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_109.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_109.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_109.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_109.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_109.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_110.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_110.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_110.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_110.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_110.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_111.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_111.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_111.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_111.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_111.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_112.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_112.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_112.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_112.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_112.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_113.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_113.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_113.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_113.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_113.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_114.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_114.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_114.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_114.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_114.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_115.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_115.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_115.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_115.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_115.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_116.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_116.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_116.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_116.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_116.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_117.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_117.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_118.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_118.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_118.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_118.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_118.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_119.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_119.jpg
+INPUT Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_119.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_119.jpg
+INPUT ./Immagini/Optimization_Algorithm_Animation/Optimization_Algorithm_Animation_119.jpg
+INPUT Immagini/Dropout.png
+INPUT ./Immagini/Dropout.png
+INPUT ./Immagini/Dropout.png
+INPUT Attachments/Higgs2.rar
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Immagini/Local Receptive Field.png
+INPUT ./Immagini/Local Receptive Field.png
+INPUT ./Immagini/Local Receptive Field.png
+INPUT Immagini/Convolutional Layer.png
+INPUT ./Immagini/Convolutional Layer.png
+INPUT ./Immagini/Convolutional Layer.png
+INPUT Immagini/Zero Padding.png
+INPUT ./Immagini/Zero Padding.png
+INPUT ./Immagini/Zero Padding.png
+INPUT Immagini/Stride.png
+INPUT ./Immagini/Stride.png
+INPUT ./Immagini/Stride.png
+INPUT Immagini/Feature Map.png
+INPUT ./Immagini/Feature Map.png
+INPUT ./Immagini/Feature Map.png
+INPUT Immagini/Stacking Feature Maps.png
+INPUT ./Immagini/Stacking Feature Maps.png
+INPUT ./Immagini/Stacking Feature Maps.png
+INPUT Immagini/Max Pooling Layer.png
+INPUT ./Immagini/Max Pooling Layer.png
+INPUT ./Immagini/Max Pooling Layer.png
+INPUT Immagini/Invariance to Small Translations.png
+INPUT ./Immagini/Invariance to Small Translations.png
+INPUT ./Immagini/Invariance to Small Translations.png
+INPUT Immagini/Data Augmentation.png
+INPUT ./Immagini/Data Augmentation.png
+INPUT ./Immagini/Data Augmentation.png
+INPUT Chapter_5.tex
+INPUT Chapter_5.tex
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.bdg
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/c70min.fd
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/c70min.fd
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/c70min.fdx
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/c70min.fdx
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj56.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj78.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj76.tfm
+INPUT Immagini/Floor Goban.jpg
+INPUT ./Immagini/Floor Goban.jpg
+INPUT ./Immagini/Floor Goban.jpg
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj78.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj76.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Animation_Go_Game.txt
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Animation_Go_Game.txt
+INPUT Animation_Go_Game.txt
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj56.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkc.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkh.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjka.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkn.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkf.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkg.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkb.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkj.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjki.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkm.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjke.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkd.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj78.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkl.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjks.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkc.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkl.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkm.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkk.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj76.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkk.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkz.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkq.tfm
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj78.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkd.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkl.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjks.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkc.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkh.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkj.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjki.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkf.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkl.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkb.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjka.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkg.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkm.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjke.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkk.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj76.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkk.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkz.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkq.tfm
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj5f.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj30.tfm
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj5f.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jke.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjko.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj30.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjsy.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjhira.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkata.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj5b.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj77.tfm
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj30.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj95.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj4e.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj5c.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj59.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/Unicode/udmj65.tfm
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+INPUT /usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+INPUT Immagini/Wood Texture.PNG
+INPUT ./Immagini/Wood Texture.PNG
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj5b.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkd.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj77.vf
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj30.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjsy.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjhira.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkata.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj95.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jku.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkx.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj4e.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jka.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkm.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkv.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjko.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj5c.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkd.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jke.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj59.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkn.tfm
+INPUT /usr/share/texmf/fonts/vf/wadalab/Unicode/udmj65.vf
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/dmjkp.tfm
+INPUT /usr/share/texmf/fonts/tfm/wadalab/JIS/mc2jkg.tfm
+INPUT Immagini/Tic-Tac-Toe.pdf
+INPUT ./Immagini/Tic-Tac-Toe.pdf
+INPUT ./Immagini/Tic-Tac-Toe.pdf
+INPUT Immagini/Optimal Decision.pdf
+INPUT ./Immagini/Optimal Decision.pdf
+INPUT ./Immagini/Optimal Decision.pdf
+INPUT Immagini/Multiplayer Game.pdf
+INPUT ./Immagini/Multiplayer Game.pdf
+INPUT ./Immagini/Multiplayer Game.pdf
+INPUT Immagini/Alpha-Beta Pruning.pdf
+INPUT ./Immagini/Alpha-Beta Pruning.pdf
+INPUT ./Immagini/Alpha-Beta Pruning.pdf
+INPUT Immagini/Monte Carlo Tree Search (Modified).pdf
+INPUT ./Immagini/Monte Carlo Tree Search (Modified).pdf
+INPUT ./Immagini/Monte Carlo Tree Search (Modified).pdf
+INPUT Appendix.tex
+INPUT Appendix.tex
+INPUT Attachments/DOSBox0.74-3-win32-installer.exe
+INPUT Immagini/Push Pin.pdf
+INPUT ./Immagini/Push Pin.pdf
+INPUT Attachments/ASSO.rar
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt0800.tfm
+INPUT Immagini/ASSO_Capture_1.png
+INPUT ./Immagini/ASSO_Capture_1.png
+INPUT ./Immagini/ASSO_Capture_1.png
+INPUT Immagini/ASSO_Capture_2.png
+INPUT ./Immagini/ASSO_Capture_2.png
+INPUT ./Immagini/ASSO_Capture_2.png
+INPUT Immagini/ASSO_Capture_3.png
+INPUT ./Immagini/ASSO_Capture_3.png
+INPUT ./Immagini/ASSO_Capture_3.png
+INPUT Immagini/ASSO_Capture_4.png
+INPUT ./Immagini/ASSO_Capture_4.png
+INPUT ./Immagini/ASSO_Capture_4.png
+INPUT Immagini/ASSO_Capture_5.png
+INPUT ./Immagini/ASSO_Capture_5.png
+INPUT ./Immagini/ASSO_Capture_5.png
+INPUT Immagini/ASSO_Capture_6.png
+INPUT ./Immagini/ASSO_Capture_6.png
+INPUT ./Immagini/ASSO_Capture_6.png
+INPUT Immagini/ASSO_Capture_7.png
+INPUT ./Immagini/ASSO_Capture_7.png
+INPUT ./Immagini/ASSO_Capture_7.png
+INPUT Immagini/ASSO_Capture_8.png
+INPUT ./Immagini/ASSO_Capture_8.png
+INPUT ./Immagini/ASSO_Capture_8.png
+INPUT Attachments/ASSCOUNT.rar
+INPUT Immagini/ASSCOUNT Pattern.PNG
+INPUT ./Immagini/ASSCOUNT Pattern.PNG
+INPUT ./Immagini/ASSCOUNT Pattern.PNG
+INPUT Immagini/ASSCOUNT_Capture_1.png
+INPUT ./Immagini/ASSCOUNT_Capture_1.png
+INPUT ./Immagini/ASSCOUNT_Capture_1.png
+INPUT Immagini/ASSCOUNT_Capture_2.png
+INPUT ./Immagini/ASSCOUNT_Capture_2.png
+INPUT ./Immagini/ASSCOUNT_Capture_2.png
+INPUT Immagini/ASSCOUNT_Capture_3.png
+INPUT ./Immagini/ASSCOUNT_Capture_3.png
+INPUT ./Immagini/ASSCOUNT_Capture_3.png
+INPUT Immagini/ASSCOUNT_Capture_4.png
+INPUT ./Immagini/ASSCOUNT_Capture_4.png
+INPUT ./Immagini/ASSCOUNT_Capture_4.png
+INPUT Attachments/PERBOOL.rar
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt0900.tfm
+INPUT Immagini/PERBOOL Learning Graph.PNG
+INPUT ./Immagini/PERBOOL Learning Graph.PNG
+INPUT ./Immagini/PERBOOL Learning Graph.PNG
+INPUT Immagini/PERBOOL_Capture_1.png
+INPUT ./Immagini/PERBOOL_Capture_1.png
+INPUT ./Immagini/PERBOOL_Capture_1.png
+INPUT Immagini/PERBOOL_Capture_2.png
+INPUT ./Immagini/PERBOOL_Capture_2.png
+INPUT ./Immagini/PERBOOL_Capture_2.png
+INPUT Immagini/PERBOOL_Capture_3.png
+INPUT ./Immagini/PERBOOL_Capture_3.png
+INPUT ./Immagini/PERBOOL_Capture_3.png
+INPUT Immagini/PERBOOL_Capture_4.png
+INPUT ./Immagini/PERBOOL_Capture_4.png
+INPUT ./Immagini/PERBOOL_Capture_4.png
+INPUT Immagini/PERBOOL_Capture_5.png
+INPUT ./Immagini/PERBOOL_Capture_5.png
+INPUT ./Immagini/PERBOOL_Capture_5.png
+INPUT Immagini/PERBOOL_Capture_6.png
+INPUT ./Immagini/PERBOOL_Capture_6.png
+INPUT ./Immagini/PERBOOL_Capture_6.png
+INPUT Immagini/PERBOOL_Capture_7.png
+INPUT ./Immagini/PERBOOL_Capture_7.png
+INPUT ./Immagini/PERBOOL_Capture_7.png
+INPUT Attachments/PERFUNC.rar
+INPUT Immagini/PERFUNC Error Graph.PNG
+INPUT ./Immagini/PERFUNC Error Graph.PNG
+INPUT ./Immagini/PERFUNC Error Graph.PNG
+INPUT Immagini/PERFUNC_Capture_1.png
+INPUT ./Immagini/PERFUNC_Capture_1.png
+INPUT ./Immagini/PERFUNC_Capture_1.png
+INPUT Immagini/PERFUNC_Capture_2.png
+INPUT ./Immagini/PERFUNC_Capture_2.png
+INPUT ./Immagini/PERFUNC_Capture_2.png
+INPUT Immagini/PERFUNC_Capture_3.png
+INPUT ./Immagini/PERFUNC_Capture_3.png
+INPUT ./Immagini/PERFUNC_Capture_3.png
+INPUT Immagini/PERFUNC_Capture_4.png
+INPUT ./Immagini/PERFUNC_Capture_4.png
+INPUT ./Immagini/PERFUNC_Capture_4.png
+INPUT Immagini/PERFUNC_Capture_5.png
+INPUT ./Immagini/PERFUNC_Capture_5.png
+INPUT ./Immagini/PERFUNC_Capture_5.png
+INPUT Immagini/PERFUNC_Capture_6.png
+INPUT ./Immagini/PERFUNC_Capture_6.png
+INPUT ./Immagini/PERFUNC_Capture_6.png
+INPUT Appendix_II.tex
+INPUT Appendix_II.tex
+INPUT Artificial_Intelligence.aux
+INPUT Artificial_Intelligence.run.xml
+OUTPUT Artificial_Intelligence.run.xml
+INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc
+INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Oblique.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathBRM.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/skaknew/SkakNew-Diagram.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjhira.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjka.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkata.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkb.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkd.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjke.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkf.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkg.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkh.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjki.pfb
+INPUT /usr/share/texmf/fonts/type1/wadalab/JIS/dmjkj.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbi1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc0900.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfit1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfit1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm3583.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfxc1200.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfxc2074.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfxc2986.pfb
